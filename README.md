@@ -2,6 +2,7 @@
 
 [![Plugin Version](https://img.shields.io/wordpress/plugin/v/better-avatars.svg)](https://wordpress.org/plugins/better-avatars/)
 [![Tested Version](https://img.shields.io/wordpress/v/better-avatars.svg)](https://wordpress.org/plugins/better-avatars/)
+[![License](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://wordpress.org/about/license/)
 [![Rating](https://img.shields.io/wordpress/plugin/r/better-avatars.svg)](https://wordpress.org/support/view/plugin-reviews/better-avatars)
 [![Downloads](https://img.shields.io/wordpress/plugin/dt/better-avatars.svg)](https://wordpress.org/plugins/better-avatars/)
 
